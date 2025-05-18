@@ -58,7 +58,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-28" value="&lt;h1&gt;&lt;b&gt;服务层&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="310" y="520" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-29" value="&lt;b&gt;AI 推理服务&lt;/b&gt;&lt;div&gt;&lt;b&gt;DeepSeep API&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-29" value="&lt;b&gt;AI 推理服务&lt;/b&gt;&lt;div&gt;&lt;b&gt;DeepSeep API&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="330" y="570" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-30" value="&lt;b&gt;知识库服务&lt;/b&gt;&lt;div&gt;&lt;b&gt;FastAPI&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -151,7 +151,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-54" value="&lt;b&gt;数据迁移&lt;/b&gt;&lt;div&gt;&lt;b&gt;迁移脚本&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="450" y="930" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-55" value="&lt;b&gt;数据安全&lt;/b&gt;&lt;div&gt;&lt;b&gt;加密存储&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-55" value="&lt;b&gt;数据安全&lt;/b&gt;&lt;div&gt;&lt;b&gt;加密存储&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="580" y="930" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-56" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1">
