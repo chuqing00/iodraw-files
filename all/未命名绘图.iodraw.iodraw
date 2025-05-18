@@ -172,8 +172,13 @@
             <mxPoint x="629.76" y="723" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmOW57wkJvmpBzNgX5iZ-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-60" value="前端技术栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-61" value="后端技术栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1070" width="120" height="60" as="geometry" />
@@ -190,7 +195,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-65" value="对话/识别/语言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BmOW57wkJvmpBzNgX5iZ-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1100" as="sourcePoint" />
             <mxPoint x="450" y="1050" as="targetPoint" />
