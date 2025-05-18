@@ -173,10 +173,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-60" value="前端技术栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-61" value="后端技术栈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1070" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-62" value="AI服务接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1070" width="120" height="60" as="geometry" />
