@@ -181,6 +181,12 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-62" value="AI服务接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-63" value="用户界面&lt;div&gt;多模态交互&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
