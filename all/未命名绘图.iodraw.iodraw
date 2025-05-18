@@ -127,7 +127,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-46" value="&lt;h1&gt;&lt;b&gt;数据层&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="780" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-47" value="&lt;b&gt;AI 推理服务&lt;/b&gt;&lt;div&gt;&lt;b&gt;DeepSeep API&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-47" value="&lt;b&gt;行为日志&lt;/b&gt;&lt;div&gt;&lt;b&gt;MYSQL/日志系统&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="830" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-48" value="&lt;b&gt;知识库服务&lt;/b&gt;&lt;div&gt;&lt;b&gt;FastAPI&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
