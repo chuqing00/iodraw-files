@@ -175,6 +175,11 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BmOW57wkJvmpBzNgX5iZ-60" target="BmOW57wkJvmpBzNgX5iZ-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-89" value="&lt;b&gt;渲染&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BmOW57wkJvmpBzNgX5iZ-88">
+          <mxGeometry x="0.33" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-60" value="前端技术栈&lt;div&gt;html+js+css&lt;/div&gt;&lt;div&gt;Pixi.js/Live2D&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
