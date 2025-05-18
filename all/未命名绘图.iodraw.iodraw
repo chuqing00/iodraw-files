@@ -46,7 +46,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-24" value="&lt;b&gt;实时通信&lt;/b&gt;&lt;div&gt;&lt;b&gt;Socket.io&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="430" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-25" value="&lt;b&gt;离线缓存&lt;/b&gt;&lt;div&gt;&lt;b&gt;LocalStorage&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-25" value="&lt;b&gt;交互控制器&lt;/b&gt;&lt;div&gt;&lt;b&gt;事件处理系统&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="430" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-26" value="&lt;b&gt;安全加密&lt;/b&gt;&lt;div&gt;&lt;b&gt;CryptoJS&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
