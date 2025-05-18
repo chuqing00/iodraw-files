@@ -172,6 +172,9 @@
             <mxPoint x="629.76" y="723" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BmOW57wkJvmpBzNgX5iZ-60" target="BmOW57wkJvmpBzNgX5iZ-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-60" value="前端技术栈&lt;div&gt;html+js+css&lt;/div&gt;&lt;div&gt;Pixi.js/Live2D&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
@@ -179,7 +182,7 @@
           <mxGeometry x="690" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-63" value="用户界面&lt;div&gt;多模态交互&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-64" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1220" width="120" height="60" as="geometry" />
@@ -225,12 +228,6 @@
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-85" value="&lt;b&gt;返回&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="1120" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="318.75" y="1110" as="sourcePoint" />
-            <mxPoint x="318.75" y="1160" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
