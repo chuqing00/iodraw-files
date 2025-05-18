@@ -58,7 +58,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-28" value="&lt;h1&gt;&lt;b&gt;服务层&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="500" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-29" value="&lt;b&gt;Web前端&lt;/b&gt;&lt;div&gt;HTML+CSS+JS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-29" value="&lt;b&gt;AI 推理服务&lt;/b&gt;&lt;div&gt;&lt;b&gt;DeepSeep API&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="550" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-30" value="&lt;b&gt;响应式设计&lt;/b&gt;&lt;div&gt;&lt;b&gt;Bootstrap/Flex&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
