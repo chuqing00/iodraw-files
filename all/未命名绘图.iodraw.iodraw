@@ -203,7 +203,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-65" value="对话/识别/语言" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="690" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="1090" as="sourcePoint" />
             <mxPoint x="470" y="1090" as="targetPoint" />
@@ -212,7 +212,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-72" value="&lt;b&gt;调用&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="1120" as="sourcePoint" />
             <mxPoint x="390" y="1120" as="targetPoint" />
