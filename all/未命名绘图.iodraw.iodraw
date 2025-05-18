@@ -31,7 +31,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="400" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-20" value="&lt;h1&gt;&lt;b&gt;表现层&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-20" value="&lt;h1&gt;&lt;b&gt;交互层&lt;/b&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="320" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-21" value="&lt;b&gt;Web前端&lt;/b&gt;&lt;div&gt;HTML+CSS+JS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
