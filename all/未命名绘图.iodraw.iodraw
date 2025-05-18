@@ -301,6 +301,9 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-132" value="&lt;b&gt;响应返回-展示内容&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="1380" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmOW57wkJvmpBzNgX5iZ-134" target="BmOW57wkJvmpBzNgX5iZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-134" value="用户请求" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="130" width="80" height="40" as="geometry" />
         </mxCell>
