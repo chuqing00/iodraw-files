@@ -259,7 +259,7 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmOW57wkJvmpBzNgX5iZ-119" target="BmOW57wkJvmpBzNgX5iZ-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BmOW57wkJvmpBzNgX5iZ-119" value="用户请求" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BmOW57wkJvmpBzNgX5iZ-119" value="表现层" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="1300" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BmOW57wkJvmpBzNgX5iZ-123" target="BmOW57wkJvmpBzNgX5iZ-125">
@@ -275,7 +275,7 @@
           <mxGeometry x="640" y="1300" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-127" value="用户请求" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1300" width="100" height="40" as="geometry" />
+          <mxGeometry x="780" y="1300" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
