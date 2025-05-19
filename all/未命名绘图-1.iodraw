@@ -302,10 +302,10 @@
           <mxGeometry x="540" y="1380" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ux90JEiLX8n3Ze63goic-1" value="项目经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="2080" width="90" height="30" as="geometry" />
+          <mxGeometry x="490" y="2080" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ux90JEiLX8n3Ze63goic-2" value="项目经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="2080" width="90" height="30" as="geometry" />
+          <mxGeometry x="380" y="2080" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ux90JEiLX8n3Ze63goic-3" value="项目经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="2080" width="90" height="30" as="geometry" />
@@ -326,7 +326,7 @@
           <mxGeometry x="375" y="1960" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ux90JEiLX8n3Ze63goic-9" value="项目经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1920" width="90" height="30" as="geometry" />
+          <mxGeometry x="595" y="2080" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
