@@ -301,8 +301,8 @@
         <mxCell id="BmOW57wkJvmpBzNgX5iZ-132" value="&lt;b&gt;响应返回-展示内容&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="1380" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ux90JEiLX8n3Ze63goic-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1840" width="120" height="60" as="geometry" />
+        <mxCell id="ux90JEiLX8n3Ze63goic-1" value="项目经理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1840" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
